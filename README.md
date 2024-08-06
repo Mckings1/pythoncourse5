@@ -1,5 +1,5 @@
-# pythoncourse5
+# PythonCourseTraining
 
 # Editing file
 
-# Python Project Data Science
+## Python Project Data Science
